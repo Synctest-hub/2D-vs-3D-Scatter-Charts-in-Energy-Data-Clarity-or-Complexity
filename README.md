@@ -9,7 +9,7 @@ A 2D scatter chart is a simple and effective way to visualize relationships betw
 * Efficient Comparison: Easier to compare multiple datasets with different markers and colors.
 * Performance-Friendly: 2D rendering is lightweight and works efficiently, even with large datasets.
 
-![2D Scatter Chart Image in WPF Chart control](image.png)
+![2DChart_image](https://github.com/user-attachments/assets/eb985787-fa7a-46d4-bff4-41435daffacd)
 
 ## Exploring 3D Scatter Charts
 3D scatter charts introduce a Z-axis, allowing visualization of three variables in a single view. This can be beneficial for complex energy datasets requiring an additional dimension.
@@ -19,7 +19,7 @@ A 2D scatter chart is a simple and effective way to visualize relationships betw
 * Enhanced Perspective: Can provide a more holistic view of multi-variable energy interactions.
 * Dynamic Rotation: Interactive 3D charts help explore data from different angles.
 
-![3D Scatter Chart Image in WPF Chart control](image-1.png)
+![WPF_2D_3D_ScatterChart](https://github.com/user-attachments/assets/2e2be20e-a4fc-405f-9895-e93c45b0db1e)
 
 ## Troubleshooting:
 ### Path too long exception:
