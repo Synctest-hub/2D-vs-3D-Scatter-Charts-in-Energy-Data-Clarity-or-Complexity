@@ -28,4 +28,4 @@ To improve the readability and visual appeal of the 3D Scatter Chart, we can enh
 ### Path too long exception:
 If you encounter a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For a step-by-step procedure, refer to the [2D-vs-3D-Scatter-Charts-in-Energy-Data--Clarity-or-Complexity? blog]().
+For a step-by-step procedure, refer to the [2D-vs-3D-Scatter-Charts-in-Energy-Data--Clarity-or-Complexity? blog](https://www.syncfusion.com/blogs/post/2d-vs-3d-scatter-charts).
